@@ -9,3 +9,6 @@ This is a quick reference sheet to help jumpstart researching how passwordless a
 
 ## What are some hurdles I may encounter with passwordless authentication and how to I avoid them?
 - Planning
+
+
+*This guide was created in part for a research project as a part of a graduate program at Wilmington University. All referenced materials are provided as-is, without warranty, and are the sole responsibility of the original authors. Pull Requests and GitHub issues are welcome for all feedback and suggestions!*
