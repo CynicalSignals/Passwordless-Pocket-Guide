@@ -1,5 +1,7 @@
 # The Pocket Guide for Passwordless Authentication in the Enterprise
-This is a quick reference sheet to help jumpstart researching how passwordless authentication can help to improve your organization's security posture against cyber threats
+This is a quick reference sheet to help jumpstart researching how passwordless authentication can help to improve your organization's security posture against cyber threats.
+
+*Note: This guide was created in part for a research project as a part of a graduate program at Wilmington University. All referenced materials are provided as-is, without warranty, and are the sole responsibility of the original authors. Pull Requests and GitHub issues are welcome for all feedback and suggestions!*
 
 ## What is passwordless authentication?
 
@@ -11,4 +13,3 @@ This is a quick reference sheet to help jumpstart researching how passwordless a
 - Planning
 
 
-*This guide was created in part for a research project as a part of a graduate program at Wilmington University. All referenced materials are provided as-is, without warranty, and are the sole responsibility of the original authors. Pull Requests and GitHub issues are welcome for all feedback and suggestions!*
